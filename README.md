@@ -5,7 +5,7 @@ I’m a physics undergraduate at UCM with a growing focus on quantitative financ
 ## Current Focus
 
 - Time series analysis and financial data modeling  
-- Exploratory Data Analysis (EDA) using Python  
+- Data Analysis using Python  
 - Portfolio returns, volatility, and risk metrics  
 - Working with libraries such as:
   - `yfinance`, `NumPy`, `pandas`, `matplotlib`, `seaborn`
@@ -16,10 +16,10 @@ I’m a physics undergraduate at UCM with a growing focus on quantitative financ
 ## Learning Objectives
 
 - Sharpen my Python development for applied finance  
-- Study quantitative trading strategies (momentum, mean reversion)  
+- Study quantitative trading strategies 
 - Explore fundamentals of portfolio theory and factor models  
 - Develop clean, reproducible Jupyter workflows  
-- Apply concepts from machine learning (e.g., classification, clustering) to market behavior
+- Apply concepts from machine learning to market behavior
 
 ## Projects
 
